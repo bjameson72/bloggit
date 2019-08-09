@@ -1,16 +1,16 @@
 {
-  "title": "Your Blog Name",
-  "url": "https://myurl.com/",
-  "description": "I am writing about my experiences as a naval navel-gazer.",
+  "title": "Brock Jameson's Blog",
+  "url": "https://tp-jameson-blog.netlify.com/posts/",
+  "description": "I am writing about my experiences as a Full-Stack Engineer at Talent Path",
   "feed": {
-    "subtitle": "I am writing about my experiences as a naval navel-gazer.",
+    "subtitle": "I am writing about my experiences as a Full-Stack Engineer at Talent Path",
     "filename": "feed.xml",
     "path": "/feed/feed.xml",
     "url": "https://myurl.com/feed/feed.xml",
     "id": "https://myurl.com/"
   },
   "author": {
-    "name": "Your Name Here",
-    "email": "youremailaddress@example.com"
+    "name": "Brock Jameson",
+    "email": "Bjameson@talentpath.com"
   }
 }

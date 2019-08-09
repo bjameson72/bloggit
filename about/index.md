@@ -7,4 +7,4 @@ navtitle: About
 templateClass: tmpl-post
 ---
 
-I am a person that writes stuff.
+Full Stack JavaScript developer with skills to architect, build, test, and deploy web applications. Chicago native, recently relocated to Los Angeles to be close to family. Love to learn and enjoy tackling tough problems.
